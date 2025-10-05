@@ -1,2 +1,2 @@
-# Python-No-es-Introdut-rias
+# Python-Noções-Introdutórias
 Elas+ Tech | Data Analytics
